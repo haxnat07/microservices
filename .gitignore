@@ -1,0 +1,8 @@
+**__pycache__**
+migrations
+settings.json
+test.py
+test.json
+test.ipynb
+test.html
+venv/
